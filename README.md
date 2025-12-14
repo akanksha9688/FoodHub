@@ -1,4 +1,4 @@
-# FoodPlaza 
+# FoodHub 
 
 A small React project that demonstrates a food/restaurant listing and a simple cart using Redux Toolkit. The project was built for learning purposes and uses Parcel as the bundler and Tailwind CSS for styling.
 
